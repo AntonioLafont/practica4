@@ -31,4 +31,5 @@ public/
 ├── css/
 │   └── estilo.css
 └── videos/
+    └── Pink Floyd - Comfortably Numb (1979 Vinyl LP) - Technics 1200G ⧸ Audio Technica AT33PTG⧸II.mp4
 ```
