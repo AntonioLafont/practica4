@@ -30,13 +30,5 @@ public/
 ├── contacto.html
 ├── css/
 │   └── estilo.css
-└── img/
+└── videos/
 ```
-- El localStorage solo almacena referencias locales
-- La compatibilidad es total en navegadores modernos
-
-## Autor
-Desarrollado para la práctica 3 de desarrollo web
-
-## Licencia
-MIT
